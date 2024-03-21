@@ -7,6 +7,26 @@
       {
         "source": "/ae",
         "destination": "/pages/ae.html"
+      },
+      {
+        "source": "/photoshop",
+        "destination": "/pages/photoshop.html"
+      },
+      {
+        "source": "/ppro",
+        "destination": "/pages/pro.html"
+      },
+      {
+        "source": "/3ds",
+        "destination": "/pages/3ds.html"
+      },
+      {
+        "source": "/about",
+        "destination": "/pages/about.html"
+      },
+      {
+        "source": "/home",
+        "destination": "/index.html"
       }
     ]
   }
