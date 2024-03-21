@@ -3,6 +3,10 @@
       {
         "source": "/index",
         "destination": "/index.html"
+      },
+      {
+        "source": "/ae",
+        "destination": "/pages/ae.html"
       }
     ]
   }
